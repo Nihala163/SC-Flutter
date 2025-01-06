@@ -5,4 +5,6 @@ class AppColors {
   final Color backgroundColor = const Color(0xFFD9D9DB);
   final Color appGreyColor = const Color(0xFF736A68);
   final Color appWhiteColor = Colors.white;
+
+  static var buttonDarkColor;
 }
